@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.one {
+    background: #efe8d7;
+    height: 220vh;
+    width: 100%;
+}
+.one .fixed{
+    position: fixed;
+    max-width: 100%;
+    margin-top: 0 auto;
+    padding:  1%  ;
+    font-family: 'Open Sans', sans-serif;
+    color: #002a5a;
+    border-bottom: 1px  solid #002a5a;
+}
+.one span:nth-of-type(2) {
+    padding-left: 1500px;
+    
+}
+.one span:nth-of-type(1) {
+    padding-left: 120px;
+}
+.one p{
+    text-align: center;
+    font-size: 150px;
+    color: #002a5a;
+    padding-top: 10%;
+    font-family: athene;
+}
+.one p:nth-of-type(1) {
+    
+    border-bottom:1px solid #002a5a;
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    padding-bottom: 3%;
+}
+.one p:nth-of-type(2){
+    font-family: athene;
+    border-bottom: 1px solid #002a5a;
+    width: 55%;
+    padding-bottom: 10px;
+    margin-left: 20%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+}
+.one img{
+    margin-left: 40%;
+    margin-top:5% ;
+}
+.one h2 {
+    text-align: center;
+    color: #002a5a;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 10%;
+    margin-left: -10%;
+    margin-top: 3%;
+
+}
+.one span{
+    font-family: athene;
+} 
+.tow {
+    background:#F4C4C4 ;
+    width: 100%;
+    height: 2200px;
+}
+.tow h5{
+    font-size: 10px;
+    margin-left: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+}
+.tow h2{
+    font-size: 150px;
+    color: #282b29;
+    margin-bottom: 2%;
+    font-family: athene;
+}
+#text{padding-bottom: 3%;
+    font-family: 'Open Sans', sans-serif; 
+    margin-left: 55%;
+    font-size: 20px;
+}
+.tow table{
+    margin-left: 50%;
+    font-family: 'Open Sans', sans-serif; 
+}
+.tow th, td{
+    border-bottom: 1px solid black;
+  
+}
+.tow th{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-right: 50%;
+    text-align: left;
+}
+.tow td{
+    text-align: left;
+    padding-right: 10%;
+   
+}
+.tow img{
+    height: 30vh;
+    width: 30vh;
+    margin-top: 5%;
+    margin-left: 65%;
+}
+.three {
+    background:#DEB873 ;
+    width: 100%;
+    height: 4700px;
+}
+.three h2{
+    font-size: 150px;
+    text-align: right;
+    color: #7d2222;
+    font-family: athene;
+}
+.three h5{
+    font-size: 15px;
+    margin-left: 90%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+}
+#text2 {
+    font-family: 'Open Sans', sans-serif; 
+    margin-left: 10%;
+    color: #7d2222;
+    font-size: 20px;
+    margin-bottom: 20%;
+    
+}
+.three h1{
+    font-size: 80px;
+    color: #7d2222;
+    margin-left: 11%;   
+}
+.three img:nth-of-type(1){
+    margin-left: 40%;
+    
+}
+.three h1:nth-of-type(2){
+    margin-top: -18%;
+    font-family: athene;
+}
+.three h1:nth-of-type(1){
+    margin-bottom: -8%;
+    font-family: athene;
+}
+.three img:nth-of-type(2){
+    margin-top: 30%;
+    margin-left: 11%;
+}
+.three h3{
+    font-size: 80px;
+    color: #7d2222;
+    margin-left: 65%;
+    margin-top: -21%;
+    font-family: athene;
+
+}
+.three h3:nth-of-type(2) {
+    margin-top: -10%;
+    margin-left: 73%;
+    font-family: athene;
+}
+.three img:nth-of-type(3) {
+    margin-top: 35%;
+    margin-left: 42%;
+}
+.three h4:nth-of-type(1){
+    font-size: 80px;
+    color: #7d2222;
+    margin-top: -19%;
+    margin-left:12% ;
+    font-family: athene;
+    
+}
+.three h4:nth-of-type(2){
+    font-size: 80px;
+    color: #7d2222;
+    margin-top: -12%;
+    margin-left: 12%;
+    font-family: athene;
+}
+.three img:nth-of-type(4){
+    margin-top: 35%;
+    margin-left: 10%;
+}
+.three h3:nth-of-type(3) {
+    margin-top: -23%;
+}
+.three h3:nth-of-type(4){
+    margin-top: -10%;
+}
+.four {
+    background:#D2D2D2 ;
+    height: 1200px;
+    width: 100%;
+}
+.four h5{
+    font-size: 20px;
+    padding-top: 10%;
+    padding-left: 8%;
+    color: #1d8883;
+    font-family: athene;
+}
+.four h2:nth-of-type(1) {
+    font-size: 120px;
+    color: #1d8883;
+    margin-top: 5%;
+    font-family: athene;
+}
+.four h2:nth-of-type(2){
+    font-size: 120px;
+    color: #1d8883;
+    margin-top: 1%;
+    font-family: athene;
+}
+.four p{
+    font-size: 20px;
+    text-align: center;
+    color: #1d8883;
+    font-family: 'Open Sans', sans-serif; 
+}
+.four ul{
+    
+    text-align: right;
+    margin-right: 10%;
+    margin-top: 5%;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif; 
+    
+}
+.four a{
+    list-style-type: none;
+    text-decoration: none;
+    color: #1d8883;
+}
+.four a:hover{
+    text-decoration: underline;
+}
+@font-face{
+    font-family:athene;
+    src: url(font/Athene.otf)
+}
